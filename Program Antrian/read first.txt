@@ -1,0 +1,8 @@
+penjelasan:
+
+1. Eunqueue = menambahkan nilai
+2. Dequeue  = mengurangi nilai
+3. Size	    = panjang antrian
+4. Empty    = cek antrian kosong atau tidak
+5. Peek	    = melihat nilai pada antrian terakhir
+6. Display  = melihat seluruh nilai pada antrian
